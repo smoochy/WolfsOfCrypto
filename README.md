@@ -1,2 +1,2 @@
-# WolfsOfCrypto
-The Wolfs of Crypto - PT2 Strategy Analyser
+# The Wolfs of Crypto - PT2 Strategy Analyser
+Please see the [Wiki](https://github.com/smoochy/WolfsOfCrypto/wiki) for everything you need to know
