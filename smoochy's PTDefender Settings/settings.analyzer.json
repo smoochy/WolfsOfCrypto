@@ -308,7 +308,7 @@
         ],
         "PairsProperties": {
           //User-Configuration-Needed -- Higher Risk Profile
-          "DEFAULT_sell_only_mode_enabled": false, //false
+          "DEFAULT_sell_only_mode_enabled": false,
           "DEFAULT_initial_cost_percentage": 3.50,
           "max_trading_pairs": 6,
 
@@ -329,7 +329,7 @@
           "DEFAULT_trailing_buy": 0.75
         },
         "DCAProperties": {
-          "DEFAULT_DCA_ignore_sell_only_mode": false //false
+          "DEFAULT_DCA_ignore_sell_only_mode": false
         }
       },
       {
@@ -340,7 +340,7 @@
           "File": "PAIRS.properties",
 
           //User-Configuration-Needed -- Normal Risk Profile
-          "DEFAULT_sell_only_mode_enabled": false, //false
+          "DEFAULT_sell_only_mode_enabled": false,
           "max_trading_pairs": 5,
           
           //Consolidation SMS as Default
@@ -545,7 +545,7 @@
 		  }
         ],
         "PairsProperties": {
-          "DEFAULT_sell_only_mode_enabled": true, //true
+          "DEFAULT_sell_only_mode_enabled": true,
 		  "DEFAULT_trailing_profit_type": "SHRINK"
         }
       },
@@ -573,7 +573,7 @@
           }
         ],
         "PairsProperties": {
-          "DEFAULT_sell_only_mode_enabled": true, //true
+          "DEFAULT_sell_only_mode_enabled": true,
 		  "DEFAULT_trailing_profit_type": "SHRINK"
         }
       },
@@ -595,7 +595,7 @@
           //User-Configuration-Needed -- Normal Risk Profile
           "DEFAULT_initial_cost_percentage": 7.50,
 
-          "DEFAULT_sell_only_mode_enabled": false, //false
+          "DEFAULT_sell_only_mode_enabled": false,
           "DEFAULT_A_buy_strategy": "SMASPREAD",
           "DEFAULT_A_buy_value": 2.25,
           "DEFAULT_A_buy_value_limit": 20.00,
@@ -632,7 +632,7 @@
           //User-Configuration-Needed -- Normal Risk Profile
           "DEFAULT_initial_cost_percentage": 7.50,
 
-          "DEFAULT_sell_only_mode_enabled": false, //false
+          "DEFAULT_sell_only_mode_enabled": false,
           "DEFAULT_A_buy_strategy": "EMASPREAD",
           "DEFAULT_A_buy_value": 0.62,
           "DEFAULT_A_buy_value_limit": 20.00,
@@ -718,7 +718,7 @@
           //User-Configuration-Needed -- Normal Risk Profile
           "DEFAULT_initial_cost_percentage": 7.50,
 
-         "DEFAULT_sell_only_mode_enabled": false, //false
+         "DEFAULT_sell_only_mode_enabled": false,
           "DEFAULT_A_buy_strategy": "OBV",
           "DEFAULT_A_buy_value": -1.00,
           "DEFAULT_A_buy_value_limit": -4.00,
@@ -775,7 +775,7 @@
           //User-Configuration-Needed -- Higher Risk Profile
           "DEFAULT_initial_cost_percentage": 2.50,
 
-          "DEFAULT_sell_only_mode_enabled": false, //false
+          "DEFAULT_sell_only_mode_enabled": false,
           "DEFAULT_A_buy_strategy": "RSI",
           "DEFAULT_A_buy_value": 35.50,
           "DEFAULT_A_buy_value_limit": 0.00,
@@ -829,7 +829,7 @@
           "DEFAULT_initial_cost_percentage": 2.50,
 
           // Buy
-         "DEFAULT_sell_only_mode_enabled": false, //false
+         "DEFAULT_sell_only_mode_enabled": false,
           "DEFAULT_A_buy_strategy": "SMASPREAD",
           "DEFAULT_A_buy_value": -6.00,
           "DEFAULT_A_buy_value_limit": -16.00,
@@ -894,7 +894,7 @@
           }
         ],
         "PairsProperties": {
-          "DEFAULT_sell_only_mode_enabled": false, //false
+          "DEFAULT_sell_only_mode_enabled": false,
           "DEFAULT_DCA_enabled": -3.89
         },
         "DCAProperties": {
@@ -953,7 +953,7 @@
         ],
         "OffTriggers": [],
         "PairsProperties": {
-          "DEFAULT_sell_only_mode_enabled": false, //false
+          "DEFAULT_sell_only_mode_enabled": false,
           "DEFAULT_trailing_profit": 0.83,
           "DEFAULT_A_sell_value": 1.67
         },
@@ -986,7 +986,7 @@
         ],
         "OffTriggers": [],
         "PairsProperties": {
-          "DEFAULT_sell_only_mode_enabled": false, //false
+          "DEFAULT_sell_only_mode_enabled": false,
           "DEFAULT_trailing_profit": 0.50,
           "DEFAULT_A_sell_value": 1.33
         },
